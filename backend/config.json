@@ -1,0 +1,10 @@
+{
+    "ipfs_api_key": "",
+    "public_db_link": "",
+    "public_db_api_key": "",
+    "max_public_visible_elements": 2400,
+    "cors_white_list": [
+        ""
+    ],
+    "db_link": ""
+}

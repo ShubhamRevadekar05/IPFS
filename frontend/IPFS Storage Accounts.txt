@@ -1,0 +1,29 @@
+IPFS Storage Accounts
+Microsoft
+Email Fname Lname Password
+uSG3YBAduWU6abmP@outlook.com ULXifbyU PXzvcMpj Cpfq!!.ebP_X*Ya<aSP>dATm*[Hbir\r$>E~mDV`[DACAfTS.$H+>g%2]^Qm|<5<
+gajab_topi_waala@outlook.com
+
+RestDB
+Email Password
+gajab_topi_waala@outlook.com 0Gajab_topi_waala
+
+nft.storage
+Email
+gajab_topi_waala@outlook.com
+
+GitHub
+Email Password
+gajab_topi_waala@outlook.com gajab_topi_waala
+
+Netlify
+Email Password
+gajab_topi_waala@outlook.com gajab_topi_waala
+
+Render
+Email Password
+gajab_topi_waala@outlook.com gajab_topi_waala
+
+Pythonanywhere
+Email Password
+gajab_topi_waala@outlook.com gajab_topi_waala
